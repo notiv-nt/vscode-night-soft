@@ -4,12 +4,56 @@
   "colors": {
     "editor.background": "#0F111A",
     "editor.foreground": "#eeffff",
-    "activityBarBadge.background": "#007acc",
+
     "sideBarTitle.foreground": "#bbbbbb",
     "sideBar.background": "#0D1011",
+    "editorSuggestWidget.background": "#091118",
+    "list.activeSelectionBackground": "#232b2e",
+    "list.hoverBackground": "#181e1f",
+
+    "activityBarBadge.background": "#007acc",
     "activityBar.background": "#0A0C0D",
-    "titleBar.activeBackground": "#00ff00"
+    "titleBar.activeBackground": "#0A0C0D",
+    "titleBar.inactiveBackground": "#0A0C0D",
+    "titleBar.activeForeground": "#FFFFFF",
+    "titleBar.inactiveForeground": "#AAAAAA",
+
+    "badge.background": "#0099FF",
+    "badge.foreground": "#FFFFFF",
+
+    "button.background": "#0099FF",
+    "button.foreground": "#fff",
+    "dropdown.background": "#0D1011",
+    "dropdown.border": "#333",
+    "input.background": "#0D1011",
+    "input.border": "#333",
+
+    "tab.activeBackground": "#111213",
+    "tab.activeForeground": "#CBCBCC",
+    "tab.activeModifiedBorder": "#09f",
+    "tab.activeBorder": "#09f",
+    "tab.border": "#000",
+    "tab.hoverBackground": "#111213",
+    "tab.inactiveBackground": "#1F2326",
+    "tab.inactiveForeground": "#D4D7D6",
+    "editorGroupHeader.tabsBackground": "#181D22",
+    "editorGroupHeader.tabsBorder": "#000",
+
+    "statusBar.background": "#0D1011",
+    "statusBar.foreground": "#AAAAAA",
+
+    "editor.lineHighlightBackground": "#1D1F27",
+    "editor.lineHighlightBorder": "#2D2F37",
+
+    "selection.background": "#2e364c",
+    "editor.selectionBackground": "#2e364c",
+    "editor.selectionHighlightBackground": "#0000",
+    "editor.selectionHighlightBorder": "#2d5074",
+    "editorCursor.foreground": "#fff",
+
+    "editorIndentGuide.activeBackground": "#6a6b72"
   },
+
   "tokenColors": [
     {
       "name": "Comment",
@@ -130,7 +174,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#B0DB65"
+        "foreground": "#55E07F"
       }
     },
     {
