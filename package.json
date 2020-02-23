@@ -1,7 +1,7 @@
 {
   "name": "night-soft",
   "displayName": "Night Soft",
-  "description": "todo",
+  "description": "Dark contrast theme",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.41.0"
