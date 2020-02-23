@@ -2,7 +2,7 @@
   "name": "night-soft",
   "displayName": "Night Soft",
   "description": "Dark contrast theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.41.0"
   },
