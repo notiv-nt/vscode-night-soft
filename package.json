@@ -3,7 +3,7 @@
   "displayName": "Night Soft",
   "description": "Dark contrast theme",
   "publisher": "notiv",
-  "version": "1.2.0",
+  "version": "0.0.1",
   "engines": {
     "vscode": "^1.41.0"
   },
