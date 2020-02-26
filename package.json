@@ -3,12 +3,25 @@
   "displayName": "Night Soft",
   "description": "Dark contrast theme",
   "publisher": "notiv",
+  "repository": {
+    "url": "https://github.com/notiv-nt/vscode-night-soft",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/notiv-nt/vscode-night-soft/issues"
+  },
   "version": "0.1.0",
   "engines": {
     "vscode": "^1.41.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "contrast",
+    "night",
+    "theme"
   ],
   "contributes": {
     "themes": [
