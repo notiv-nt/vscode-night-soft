@@ -115,6 +115,11 @@
       "name": "Tag",
       "scope": [
         "entity.name.tag.html",
+        "entity.name.tag.template.html",
+        "entity.name.tag.script.html",
+        "entity.name.tag.style.html",
+        "entity.name.tag.inline.any.html",
+        "meta.tag.block.any.html",
         "meta.tag.sgml",
         "markup.deleted.git_gutter",
         "entity.name.tag.css",
@@ -128,7 +133,7 @@
 
     {
       "name": "HTML Attributes",
-      "scope": ["text.html entity.other.attribute-name.html", "text.html.basic entity.other.attribute-name", "entity.other.inherited-class"],
+      "scope": ["entity.other.attribute-name.html", "entity.other.attribute-name", "entity.other.inherited-class"],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#8BE9FD"
@@ -210,18 +215,12 @@
         "foreground": "#8BE9FD"
       }
     },
-    {
-      "name": "Function Names",
-      "scope": ["punctuation.definition.entity.css"],
-      "settings": {
-        "foreground": "#fff"
-      }
-    },
 
     {
       "name": "CSS class names",
       "scope": [
         "entity.other.attribute-name.class.css",
+        "punctuation.definition.entity.css",
         "entity.other.attribute-name.parent-selector-suffix.css",
         "entity.other.attribute-name.attribute.css",
         "entity.other.attribute-name.pseudo-element.css"
@@ -236,7 +235,7 @@
       "scope": ["entity.other.attribute-name.pseudo-class.css"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#8BE9FD"
+        "foreground": "#F1FA8C"
       }
     },
     {
@@ -265,7 +264,7 @@
       "name": "CSS variables",
       "scope": ["variable.css", "variable.argument.css", "variable.parameter.postcss", "variable.scss"],
       "settings": {
-        "foreground": "#FF79C6"
+        "foreground": "#FFB86C"
       }
     },
     {
