@@ -119,7 +119,7 @@
         "entity.name.tag.script.html",
         "entity.name.tag.style.html",
         "entity.name.tag.inline.any.html",
-        "meta.tag.block.any.html",
+        "entity.name.tag.block.any.html",
         "entity.name.tag.other.html",
         "meta.tag.sgml",
         "markup.deleted.git_gutter",
