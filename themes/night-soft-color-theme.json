@@ -115,6 +115,8 @@
       "name": "Tag",
       "scope": [
         "entity.name.tag.html",
+        "support.class.component.js",
+        "entity.name.tag.js",
         "entity.name.tag.template.html",
         "entity.name.tag.script.html",
         "entity.name.tag.style.html",
@@ -134,7 +136,7 @@
 
     {
       "name": "HTML Attributes",
-      "scope": ["entity.other.attribute-name.html", "entity.other.attribute-name", "entity.other.inherited-class"],
+      "scope": ["entity.other.attribute-name.html", "entity.other.attribute-name.js", "entity.other.attribute-name", "entity.other.inherited-class"],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#8BE9FD"
