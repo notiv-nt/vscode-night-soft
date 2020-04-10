@@ -10,6 +10,7 @@
     "editorSuggestWidget.background": "#091118",
     "list.activeSelectionBackground": "#232b2e",
     "list.hoverBackground": "#181e1f",
+    "quickInput.background": "#000",
 
     "activityBarBadge.background": "#007acc",
     "activityBar.background": "#0A0C0D",
