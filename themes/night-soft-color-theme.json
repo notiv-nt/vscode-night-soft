@@ -2,19 +2,19 @@
   "name": "night-soft",
   "type": "dark",
   "colors": {
-    "editor.background": "#0F111A",
+    "editor.background": "#0D121F",
     "editor.foreground": "#eeffff",
 
-    "sideBarTitle.foreground": "#bbbbbb",
-    "sideBar.background": "#0D1011",
+    "sideBarTitle.foreground": "#eee",
+    "sideBar.background": "#090d17",
     "editorSuggestWidget.background": "#091118",
     "list.activeSelectionBackground": "#232b2e",
     "list.hoverBackground": "#181e1f",
     "quickInput.background": "#000",
 
     "activityBarBadge.background": "#007acc",
-    "activityBar.background": "#0A0C0D",
-    "titleBar.activeBackground": "#0A0C0D",
+    "activityBar.background": "#05080F",
+    "titleBar.activeBackground": "#05080F",
     "titleBar.inactiveBackground": "#0A0C0D",
     "titleBar.activeForeground": "#FFFFFF",
     "titleBar.inactiveForeground": "#AAAAAA",
@@ -131,7 +131,7 @@
         "entity.name.tag.yaml"
       ],
       "settings": {
-        "foreground": "#D62565"
+        "foreground": "#e8276d"
       }
     },
 
