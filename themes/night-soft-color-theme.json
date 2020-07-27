@@ -128,7 +128,8 @@
         "markup.deleted.git_gutter",
         "entity.name.tag.css",
         "support.type.property-name.json",
-        "entity.name.tag.yaml"
+        "entity.name.tag.yaml",
+        "support.class.component.svelte"
       ],
       "settings": {
         "foreground": "#e8276d"
