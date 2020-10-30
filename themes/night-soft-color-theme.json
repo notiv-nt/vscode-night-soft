@@ -117,7 +117,9 @@
       "scope": [
         "entity.name.tag.html",
         "support.class.component.js",
+        "support.class.component.tsx",
         "entity.name.tag.js",
+        "entity.name.tag.tsx",
         "entity.name.tag.template.html",
         "entity.name.tag.script.html",
         "entity.name.tag.style.html",
@@ -138,7 +140,13 @@
 
     {
       "name": "HTML Attributes",
-      "scope": ["entity.other.attribute-name.html", "entity.other.attribute-name.js", "entity.other.attribute-name", "entity.other.inherited-class"],
+      "scope": [
+        "entity.other.attribute-name.html",
+        "entity.other.attribute-name.js",
+        "entity.other.attribute-name.tsx",
+        "entity.other.attribute-name",
+        "entity.other.inherited-class"
+      ],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#8BE9FD"
@@ -215,7 +223,7 @@
 
     {
       "name": "Function Names",
-      "scope": ["entity.name.type", "variable.other.constant.object", "support.function.js", "support.function"],
+      "scope": ["entity.name.type", "variable.other.constant.object", "support.function.js", "support.function.tsx", "support.function"],
       "settings": {
         "foreground": "#8BE9FD"
       }
