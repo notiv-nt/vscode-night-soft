@@ -93,6 +93,14 @@
       }
     },
     {
+      "name": "Typescript Cast",
+      "scope": ["cast.expr.ts"],
+      "settings": {
+        "foreground": "#FF79C6",
+        "fontStyle": "italic"
+      }
+    },
+    {
       "name": "Operator, Misc",
       "scope": [
         "constant.other.color",
