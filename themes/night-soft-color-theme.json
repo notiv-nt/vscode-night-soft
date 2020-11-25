@@ -133,6 +133,7 @@
         "entity.name.tag.style.html",
         "entity.name.tag.inline.any.html",
         "entity.name.tag.block.any.html",
+        "support.class.component.html",
         "entity.name.tag.other.html",
         "meta.tag.sgml",
         "markup.deleted.git_gutter",
@@ -231,7 +232,13 @@
 
     {
       "name": "Function Names",
-      "scope": ["entity.name.type", "variable.other.constant.object", "support.function.js", "support.function.tsx", "support.function"],
+      "scope": [
+        "entity.name.type",
+        "variable.other.constant.object",
+        "support.function.js",
+        "support.function.tsx",
+        "support.function"
+      ],
       "settings": {
         "foreground": "#8BE9FD"
       }
@@ -261,7 +268,11 @@
     },
     {
       "name": "CSS attrs",
-      "scope": ["meta.attribute-selector.css", "entity.other.attribute-name.attribute.scss", "entity.other.attribute-selector.postcss"],
+      "scope": [
+        "meta.attribute-selector.css",
+        "entity.other.attribute-name.attribute.scss",
+        "entity.other.attribute-selector.postcss"
+      ],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#8BE9FD"
@@ -276,7 +287,11 @@
     },
     {
       "name": "CSS colors",
-      "scope": ["constant.other.color.rgb-value.hex.css", "constant.other.color.rgb-value.css.postcss", "support.type.property-name.media.css"],
+      "scope": [
+        "constant.other.color.rgb-value.hex.css",
+        "constant.other.color.rgb-value.css.postcss",
+        "support.type.property-name.media.css"
+      ],
       "settings": {
         "foreground": "#F1FA8C"
       }
