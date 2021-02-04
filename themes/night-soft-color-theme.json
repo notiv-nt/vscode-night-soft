@@ -4,6 +4,7 @@
   "colors": {
     "editor.background": "#0D121F",
     "editor.foreground": "#eeffff",
+    "editor.linkedEditingBackground": "#090d17",
 
     "sideBarTitle.foreground": "#eee",
     "sideBar.background": "#090d17",
