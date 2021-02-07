@@ -52,7 +52,7 @@
     // "editorGroupHeader.border": "#ff0000",
     // "editorGroupHeader.noTabsBackground": "#ff0000",
     // "editorGroupHeader.tabsBorder": "#ff0000",
-    "tab.activeBackground": "#0D121F",
+    "tab.activeBackground": "#1D212D",
     "tab.inactiveBackground": "#090D17",
     "tab.activeForeground": "#fff",
     "tab.inactiveForeground": "#999",
