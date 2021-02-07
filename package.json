@@ -1,7 +1,7 @@
 {
   "name": "night-soft",
   "displayName": "Night Soft",
-  "description": "Dark contrast theme",
+  "description": "Dark Contrast Theme",
   "publisher": "notiv",
   "scripts": {
     "update:minor": "vsce publish minor",
@@ -14,7 +14,7 @@
   "bugs": {
     "url": "https://github.com/notiv-nt/vscode-night-soft/issues"
   },
-  "version": "0.5.0",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.41.0"
   },
@@ -27,6 +27,7 @@
     "night",
     "theme"
   ],
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
@@ -35,5 +36,10 @@
         "path": "./themes/night-soft-color-theme.json"
       }
     ]
+  },
+  "__metadata": {
+    "id": "56895901-dc15-4123-be71-4a417d81e5da",
+    "publisherDisplayName": "notiv",
+    "publisherId": "54bc8ae6-d096-4475-96c4-a29f076b56f8"
   }
 }

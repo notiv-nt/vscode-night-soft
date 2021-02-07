@@ -1,8 +1,8 @@
 # Change Log
 
-All notable changes to the "night-soft" extension will be documented in this file.
+## [7 Feb 2021]
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- Fix some colors
 
 ## [26 Feb 2020]
 
