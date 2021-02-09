@@ -238,7 +238,7 @@
     // "editorPane.background": "#ff0000",
     // "editorRuler.foreground": "#ff0000",
     // "editorUnnecessaryCode.border": "#ff0000",
-    "editorUnnecessaryCode.opacity": "#0008",
+    "editorUnnecessaryCode.opacity": "#000a",
     // "editorWarning.background": "#ff0000",
     // "editorWarning.border": "#ff0000",
     // "editorWarning.foreground": "#ff0000",
