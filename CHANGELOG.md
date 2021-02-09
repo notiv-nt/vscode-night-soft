@@ -1,5 +1,9 @@
 # Change Log
 
+## [9 Feb 2021]
+
+- Fix editorUnnecessaryCode.opacity color
+
 ## [7 Feb 2021]
 
 - Fix some colors
