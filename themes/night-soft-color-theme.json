@@ -157,7 +157,7 @@
     "editor.selectionHighlightBorder": "#2d5074",
     "editor.findMatchBackground": "#2e364c",
     "editor.findMatchBorder": "#2d5074",
-    "editor.findMatchHighlightBackground": "#0000",
+    "editor.findMatchHighlightBackground": "#FFFFFF15",
     "editor.findMatchHighlightBorder": "#2d5074",
     // "editor.findRangeHighlightBackground": "#ff0000",
     // "editor.findRangeHighlightBorder": "#ff0000",

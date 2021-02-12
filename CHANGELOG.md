@@ -1,5 +1,9 @@
 # Change Log
 
+## [12 Feb 2021]
+
+- Fix editor.findMatchHighlightBackground background
+
 ## [9 Feb 2021]
 
 - Fix editorUnnecessaryCode.opacity color
