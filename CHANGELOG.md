@@ -1,5 +1,9 @@
 # Change Log
 
+## [27 Feb 2021]
+
+- Fix diffEditor.insertedTextBackground/removedTextBackground background
+
 ## [12 Feb 2021]
 
 - Fix editor.findMatchHighlightBackground background

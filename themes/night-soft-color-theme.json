@@ -86,8 +86,8 @@
     // "quickInputTitle.background": "#ff0000",
 
     // diff editor
-    "diffEditor.insertedTextBackground": "#00ff000d",
-    "diffEditor.removedTextBackground": "#ff00000d",
+    "diffEditor.insertedTextBackground": "#00ff0013",
+    "diffEditor.removedTextBackground": "#ff000023",
 
     // badge
     "badge.background": "#0a64f0",
