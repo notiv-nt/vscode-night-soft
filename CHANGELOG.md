@@ -1,4 +1,8 @@
-# Change Log
+# Changelog
+
+## [12 Apr 2021]
+
+- Add peekView styles
 
 ## [27 Feb 2021]
 

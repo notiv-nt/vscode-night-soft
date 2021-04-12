@@ -215,10 +215,6 @@
     // "editorLineNumber.activeForeground": "#ff0000",
     // "editorLineNumber.foreground": "#ff0000",
     // "editorLink.activeForeground": "#ff0000",
-    // "editorMarkerNavigation.background": "#ff0000",
-    // "editorMarkerNavigationError.background": "#ff0000",
-    // "editorMarkerNavigationInfo.background": "#ff0000",
-    // "editorMarkerNavigationWarning.background": "#ff0000",
     // "editorOverviewRuler.addedForeground": "#ff0000",
     // "editorOverviewRuler.background": "#ff0000",
     // "editorOverviewRuler.border": "#ff0000",
@@ -247,6 +243,18 @@
     "editorWidget.border": "#0A64F0",
     // "editorWidget.foreground": "#ff0000",
     // "editorWidget.resizeBorder": "#ff0000",
+
+    "editorMarkerNavigation.background": "#0D1011",
+    // "editorMarkerNavigationError.background": "#ff0000",
+    // "editorMarkerNavigationInfo.background": "#ff0000",
+    // "editorMarkerNavigationWarning.background": "#ff0000",
+
+    "peekViewTitle.background": "#0D1011",
+    "peekViewResult.background": "#0D1011",
+    "peekViewEditor.background": "#001f33c0",
+    "peekViewEditor.matchHighlightBackground": "#fff1",
+    "peekViewEditor.matchHighlightBorder": "#2a7af670",
+    "peekViewResult.matchHighlightBackground": "#2a7af640",
 
     // "editorCursor.background": "#ff0000",
     "editorCursor.foreground": "#fff"
