@@ -14,7 +14,7 @@
   "bugs": {
     "url": "https://github.com/notiv-nt/vscode-night-soft/issues"
   },
-  "version": "1.1.1",
+  "version": "1.1.2",
   "engines": {
     "vscode": "^1.41.0"
   },
