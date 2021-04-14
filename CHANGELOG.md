@@ -1,5 +1,9 @@
 # Changelog
 
+## [14 Apr 2021]
+
+- Add some php token colors
+
 ## [12 Apr 2021]
 
 - Add peekView styles
