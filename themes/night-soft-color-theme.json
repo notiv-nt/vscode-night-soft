@@ -670,12 +670,12 @@
       "settings": { "foreground": "#F775C0" }
     },
     {
-      "name": "PHP namespace separator",
+      "name": "PHP goto label",
       "scope": ["entity.name.goto-label.php"],
       "settings": { "foreground": "#F1FA8C" }
     },
     {
-      "name": "PHP namespace separator",
+      "name": "PHP class constant",
       "scope": ["constant.other.class.php"],
       "settings": { "foreground": "#FFB86C" }
     }
