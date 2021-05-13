@@ -329,6 +329,7 @@
       "name": "Tag",
       "scope": [
         "entity.name.tag.html",
+        "invalid.illegal.unrecognized-tag.html",
         "support.class.component.js",
         "support.class.component.tsx",
         "entity.name.tag.js",
@@ -349,6 +350,13 @@
       ],
       "settings": {
         "foreground": "#e8276d"
+      }
+    },
+    {
+      "name": "Invalid unrecognized tag",
+      "scope": ["invalid.illegal.unrecognized-tag.html"],
+      "settings": {
+        "fontStyle": "italic"
       }
     },
 

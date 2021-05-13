@@ -1,5 +1,9 @@
 # Changelog
 
+## [13 May 2021]
+
+- Add invalid.illegal.unrecognized-tag.html support
+
 ## [14 Apr 2021]
 
 - Add some php token colors
