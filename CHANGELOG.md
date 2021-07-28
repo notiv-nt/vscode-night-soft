@@ -1,5 +1,10 @@
 # Changelog
 
+## [28 July 2021]
+
+- Fix vue 1i8n tag color
+- Change js's template string color
+
 ## [13 May 2021]
 
 - Add invalid.illegal.unrecognized-tag.html support
