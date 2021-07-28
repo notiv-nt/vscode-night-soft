@@ -346,7 +346,8 @@
         "entity.name.tag.css",
         "support.type.property-name.json",
         "entity.name.tag.yaml",
-        "support.class.component.svelte"
+        "support.class.component.svelte",
+        "entity.name.tag.i18n.html.vue"
       ],
       "settings": {
         "foreground": "#e8276d"
@@ -386,7 +387,9 @@
         "string.quoted.single.yaml",
         "string.quoted.double.yaml",
         "string.unquoted.plain.in.yaml",
-        "string.unquoted.plain.out.yaml"
+        "string.unquoted.plain.out.yaml",
+        "punctuation.definition.template-expression.begin.js",
+        "punctuation.definition.template-expression.end.js"
       ],
       "settings": {
         "foreground": "#61FF8E"
