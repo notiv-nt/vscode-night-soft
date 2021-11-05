@@ -1,5 +1,9 @@
 # Changelog
 
+## [5 November 2021]
+
+- Fix `entity.name.tag` for svelte
+
 ## [28 July 2021]
 
 - Fix vue 1i8n tag color
