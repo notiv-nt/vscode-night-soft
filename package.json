@@ -2,6 +2,7 @@
   "name": "night-soft",
   "displayName": "Night Soft",
   "description": "Dark Contrast Theme",
+  "version": "1.1.5",
   "publisher": "notiv",
   "scripts": {
     "update:minor": "vsce publish minor",
@@ -14,7 +15,6 @@
   "bugs": {
     "url": "https://github.com/notiv-nt/vscode-night-soft/issues"
   },
-  "version": "1.1.5",
   "engines": {
     "vscode": "^1.41.0"
   },
