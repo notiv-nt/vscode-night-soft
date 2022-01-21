@@ -6,7 +6,7 @@
 
 ## [28 July 2021]
 
-- Fix vue 1i8n tag color
+- Fix vue i18n tag color
 - Change js's template string color
 
 ## [13 May 2021]
