@@ -1,5 +1,9 @@
 # Changelog
 
+## [29 May 2022]
+
+- Fix css selector color
+
 ## [5 November 2021]
 
 - Fix `entity.name.tag` for svelte
