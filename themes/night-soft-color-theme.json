@@ -348,7 +348,8 @@
         "support.type.property-name.json",
         "entity.name.tag.yaml",
         "support.class.component.svelte",
-        "entity.name.tag.i18n.html.vue"
+        "entity.name.tag.i18n.html.vue",
+        "meta.selector.css"
       ],
       "settings": {
         "foreground": "#e8276d"
