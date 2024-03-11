@@ -408,7 +408,13 @@
 
     {
       "name": "Strings",
-      "scope": ["storage.type", "support.variable", "support.class", "support.class.builtin", "support.type.object.module"],
+      "scope": [
+        "storage.type",
+        "support.variable",
+        "support.class",
+        "support.class.builtin",
+        "support.type.object.module"
+      ],
       "settings": {
         "foreground": "#8BE9FD",
         "fontStyle": "italic"
@@ -652,7 +658,11 @@
     },
     {
       "name": "Markdown - Fenced Bode Block Variable",
-      "scope": ["markup.raw.block.fenced.markdown", "variable.language.fenced.markdown", "punctuation.section.class.end"],
+      "scope": [
+        "markup.raw.block.fenced.markdown",
+        "variable.language.fenced.markdown",
+        "punctuation.section.class.end"
+      ],
       "settings": {
         "foreground": "#EEFFFF"
       }
@@ -691,6 +701,11 @@
       "name": "PHP class constant",
       "scope": ["constant.other.class.php"],
       "settings": { "foreground": "#FFB86C" }
+    },
+    {
+      "name": "variable.other.env",
+      "scope": ["variable.other.env"],
+      "settings": { "foreground": "#8BE9FD" }
     }
   ]
 }

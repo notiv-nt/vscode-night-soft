@@ -1,5 +1,9 @@
 # Changelog
 
+## [11 Mar 2024]
+
+- Env key color
+
 ## [29 May 2022]
 
 - Fix css selector color
